@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on reproducing String Theory papers.
+🔭 I’m currently learning Group Theory and working on reproducing String Theory papers.
 <!--
 **levgru/levgru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
