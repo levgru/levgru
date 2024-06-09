@@ -1,5 +1,8 @@
 ### Hi there 👋
-🔭 I’m currently learning Group Theory and working on reproducing String Theory papers.
+🔭 I’m currently working on three main projects:
+1. Working with Professor Lynn in the HMC physics department on entanglement witnessing.
+2. A personal project on reproducing black holes on quantum computers.
+3. A personal project on a tiktok-esque site but for reading summaries of academic papers. 
 <!--
 **levgru/levgru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
