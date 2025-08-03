@@ -1,8 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on three main projects:
+🔭 I’m currently working on two main projects:
 1. Working with Professor Lynn in the HMC physics department on entanglement witnessing.
-2. A personal project on reproducing black holes on quantum computers.
-3. A personal/course project analyzing equations of motions for a finger flicking motion involving Neo-Hookean springs. 
+2. Working with the Quantum Moonshot (MITRE, MIT, Sandia NL) on quantum field theory applications.
 <!--
 **levgru/levgru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
